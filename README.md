@@ -23,6 +23,8 @@ I work across the complete stack — from clean, intuitive UI to robust backend 
 - React.js, Next.js
 - Bootstrap
 - Tailwind CSS
+- Three.js
+- GSAP
 
 **Backend**
 - Node.js, Express.js
@@ -34,12 +36,18 @@ I work across the complete stack — from clean, intuitive UI to robust backend 
 
 **Mobile**
 - React Native
+- Expo
+- Modern UI
+- Animations
+- Google Play Store
+- Apple App Store
 
 **Tools & Practices**
 - Git & GitHub
 - REST APIs
 - SEO Optimization
 - Image Optimization
+- CI/CD Pipeline
 - Docker
 - WSL
 - Clean Code & Scalable Architecture
